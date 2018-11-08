@@ -1,4 +1,4 @@
-# Computer-and-Electrical-Engineering-Resources
+# Computer and Electrical Engineering Resources
 This repository is for notes and other study resources from reputable universities for CE, CS, IT, and EE students.
 
 ## Contributing
