@@ -1,2 +1,2 @@
-# Electrical-and-Computer-Engineering-Resources
+# Computer-and-Electrical-Engineering-Resources
 :books::pencil::mortar_board:
